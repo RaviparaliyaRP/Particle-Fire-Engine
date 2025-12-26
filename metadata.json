@@ -1,0 +1,5 @@
+{
+  "name": "Ignite - Realistic Particle Fire Text Engine",
+  "description": "A high-performance interactive text-to-fire generator using physics-based particle systems and Simplex noise for organic flame movement.",
+  "requestFramePermissions": []
+}
